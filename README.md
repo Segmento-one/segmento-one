@@ -11,7 +11,7 @@
 ### What I'm Doing
 
 ⚙️ Helping SaaS teams hire better, faster, cleaner  
-🔧 Designing workflows with **Mocha + Cloudflare Workers + LLMs**  
+🔧 Building recruiter-grade workflows with Cloudflare Workers + LLMs  
 🤖 Trying to replace bad recruiters, not good ones  
 🔍 Teaching AI to evaluate candidates better than “quick scan of the CV”  
 🤝 Recruiting only for teams who *actually* care about quality  
